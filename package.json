@@ -1,0 +1,27 @@
+{
+  "name": "baijiayunsdk",
+  "version": "1.0.0",
+  "description": "百家云sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wocourse/baijiayunsdk.git"
+  },
+  "keywords": [
+    "baijiayun",
+    "百家云"
+  ],
+  "author": "wocourse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wocourse/baijiayunsdk/issues"
+  },
+  "dependencies": {
+    "md5": "^2.1.0",
+    "request": "^2.69.0"
+  },
+  "homepage": "https://github.com/wocourse/baijiayunsdk#readme"
+}
